@@ -1,2 +1,2 @@
 # hewing-ai
-my ai site v46
+my ai site v47
